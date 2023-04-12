@@ -1,0 +1,67 @@
+.bkgr {
+	background-color: #414140;
+}
+
+.mi-header {
+	height: 70px;
+}
+.imagen-logo {
+	width: 20%;
+}
+
+.mi-boton {
+	border-color: #EC7C09;
+	color: #EC7C09;
+}
+
+.mi-boton  span{
+	color: #EC7C09;
+}
+
+.contenedor {
+	position: relative;
+}
+
+.imagen-fondo {
+	width: 100%;
+	height: 550px;
+	object-fit: cover;
+}
+
+.formulario {
+	width: 35%;
+	height: 520px;
+	margin: 0 auto;
+	position: absolute;
+	top: 56%;
+	right: 50%;
+	transform: translate(50%,-50%);
+	background-color: #414140;
+	border-radius: 15px;
+}
+
+.input-gral {
+	width: 100%;
+	background-color: #ffffff;				
+	border: 1.7px solid #EC7C09;
+	height: 50px;
+	margin:  20px 70px;
+
+}
+
+/*#EC7C09 color naranja */
+
+.mi-input {
+	border-radius: 10px;
+	margin-top: 30px;
+}
+
+.boton-enviar {
+	width: 80%;
+	height: 40px;
+	margin: 30px 116px; /* top right bottom left */
+	color: #EC7C09;
+	border-color: #EC7C09;
+	border: 2.5px solid;
+	background-color: #ffffff;
+}
